@@ -1,0 +1,6 @@
+year_month,month_of_release,passenger_type,direction,sex,age,estimate,standard_error,status
+2001-01,2020-09,Long-term migrant,Arrivals,Female,0-4 years,344,0,Final
+2001-01,2020-09,Long-term migrant,Arrivals,Male,0-4 years,341,0,Final
+2021-09,2021-09,Long-term migrant,Arrivals,TOTAL,TOTAL,1712,61,Provisional
+2021-09,2021-09,Long-term migrant,Departures,TOTAL,TOTAL,1059,52,Provisional
+2021-09,2021-09,Long-term migrant,Net,TOTAL,TOTAL,653,70,Provisional

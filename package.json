@@ -1,0 +1,17 @@
+{
+  "name": "node.js-tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.2.0",
+    "date-and-time": "^2.3.1",
+    "json-diff": "^0.9.0"
+  }
+}
